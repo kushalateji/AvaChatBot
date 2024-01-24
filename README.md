@@ -1,5 +1,3 @@
-Certainly! Here's the content formatted for the README file:
-
 # AvaChatBot
 
 Welcome to AvaChatBot, your friendly AI chatbot.. Ava is designed to assist and engage in conversations with users, providing information, entertainment, and more.
