@@ -123,7 +123,7 @@ data = {
 "tags": tags
 }
 
-FILE = "/Users/kushalateji/Documents/KUSH/Python Chatbot/data.pth"
+FILE = "/Users/kushalateji/Documents/KUSH/AvaChatBot/data.pth"
 
 torch.save(data, FILE)
 
